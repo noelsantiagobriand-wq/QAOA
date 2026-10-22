@@ -1,5 +1,5 @@
 networkx
-quiskit
+qiskit
 matplotlib
 numpy
 scipy
