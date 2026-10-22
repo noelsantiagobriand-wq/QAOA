@@ -1,6 +1,6 @@
 # QAOA
 
-This is my project for the [TKS](https://www.tks.world/) Build phase: implementing the **Quantum Approximate Optimization Algorithm (QAOA)** to solve combinatorial optimization problems on graphs, built with [Qiskit](https://qiskit.org/) and NetworkX. I have explained it in this medium blogpost.
+This is my project for the [TKS](https://www.tks.world/) Build phase: implementing the **Quantum Approximate Optimization Algorithm (QAOA)** to solve combinatorial optimization problems on graphs, built with [Qiskit](https://qiskit.org/) and NetworkX. I have explained it in [this medium blogpost](https://medium.com/@noel.santiago.briand/quantum-optimization-algorithms-03e57f744b12?postPublishedType=initial).
 
 ## About
 QAOA is a hybrid quantum-classical algorithm that approximates solutions to combinatorial optimization problems such as [MaxCut](https://en.wikipedia.org/wiki/Maximum_cut). This project applies it to randomly generated graphs:
